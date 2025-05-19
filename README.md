@@ -1,6 +1,4 @@
 # mini-project_HODU
-HODU
-# mini-project_HODU
 
 # 🐾 HODU - 웹페이지 프로젝트
 HTML, CSS를 기반으로 제작되었습니다.
